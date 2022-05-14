@@ -9,7 +9,7 @@
    O desafio Ilegra é composto de um sistema de criação e listagem de currículos, onde o usuário possui a disponibilidade da criação de um cadastro com seus dados curriculares, e que também é capaz de fazer a listagem dos mesmos e fazer a exclusão, caso queira.
     
   # DESENVOLVIDO
-Projeto Desenvolvido para o processo seletivo da empresa Ilegra.
+Projeto Desenvolvido para o processo seletivo da empresa Ilegra feito em linguagem REACT.JS com LocalStorage para armazenamento de dados.
   
   # DESENVOLVEDORES
 | PAULO BRISOLA | 
