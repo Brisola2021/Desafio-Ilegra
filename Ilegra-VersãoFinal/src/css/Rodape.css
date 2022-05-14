@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient( to right, rgb(34, 3, 234) 25%, rgb(159, 20, 69) );
+    height: auto;
+    width: 100vw;
+    padding-top: 15px;
+    color: #fff;
+    font-family: "AstroSpace", sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    
+}
+
+
+
+.footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+    color: #cacdd2;
+    font-family: "AstroSpace", sans-serif;
+}
+
+.footer-bottom p{
+    float: left;
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    font-family: "AstroSpace", sans-serif;
+ }
+ .footer-bottom p a{
+   color:#44bae8;
+   font-size: 16px;
+   text-decoration: none;
+   font-family: "AstroSpace", sans-serif;
+ }
+ .footer-bottom span{
+     text-transform: uppercase;
+     opacity: .4;
+     font-weight: 200;
+     font-family: "AstroSpace", sans-serif;
+ }
+
+ .footer-menu{
+    float: right;
+    font-family: "AstroSpace", sans-serif;
+  }
+  
+  .footer-menu ul{
+    display: flex;
+    font-family: "AstroSpace", sans-serif;
+  }
+  
+  .footer-menu ul li{
+  padding-right: 10px;
+  display: block;
+  font-family: "AstroSpace", sans-serif;
+  }
+  
+  .footer-menu ul li a{
+    color: #cfd2d6;
+    text-decoration: none;
+    font-family: "AstroSpace", sans-serif;
+  }
+  
+  .footer-menu ul li a:hover{
+    color: #27bcda;
+  }
+
+  @media (max-width:500px) {
+    .footer-menu ul{
+      display: flex;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      font-family: "AstroSpace", sans-serif;
+    }
+    }
+
+

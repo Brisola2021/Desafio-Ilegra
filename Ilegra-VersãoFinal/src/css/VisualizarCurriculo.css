@@ -1,0 +1,29 @@
+#Lista{
+    background: url(https://i.imgur.com/4fueaSl.jpg);
+    margin: 50px;
+   
+}
+
+#apagar{
+    text-decoration: none;
+  font-size: 20px;
+  color: #FFFFFF;
+  font-family: arial;
+  background: linear-gradient(to bottom, #e21313, #d99a8c);
+  border: solid #c60700 1px;
+  border-radius: 5px;
+  padding:1.7px;
+  text-shadow: 0px 1px 2px #000000;
+  box-shadow: 0px 1px 5px #0D2444;
+  -webkit-transition: all 0.15s ease;
+  -moz-transition: all 0.15s ease;
+  -o-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+  margin: 10px;
+}
+
+#apagar:hover{
+    opacity: 0.9;
+    background: linear-gradient(to bottom, #ff5a5a, #ee0404);
+    box-shadow: 0px 1px 2px #000000;
+  }
